@@ -1,5 +1,6 @@
 import livroRepository from "../repositories/livro.repository.js";
 import vendaRepository from "../repositories/venda.repository.js";
+import livroInfoRepository from "../repositories/livroInfo.repository.js";
 
 async function createLivro(livro) {
   return await livroRepository.insertLivro(livro);
@@ -28,10 +29,20 @@ async function getLivro(id) {
   return await livroRepository.getLivro(id);
 }
 
+async function createLivroInfo(livroInfo) {
+  await livroInfoRepository.createLivroInfo(livroInfo);
+}
+
+async function updateLivroInfo(productInfo) {
+  await livroInfoRepository.updateLivroInfo(productInfo);
+}
+
 export default {
   createLivro,
   updateLivro,
   deleteLivro,
   getLivros,
   getLivro,
+  createLivroInfo,
+  updateLivroInfo,
 };

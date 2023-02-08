@@ -14,9 +14,9 @@ global.logger = winston.createLogger({
   level: "silly",
   transports: [
     new winston.transports.Console(),
-    new winston.transports.File({ filename: "petshop-api.log" }),
+    new winston.transports.File({ filename: "livraria-api.log" }),
   ],
-  format: combine(label({ label: "petshop-api" }), timestamp(), myFormat),
+  format: combine(label({ label: "livraria-api" }), timestamp(), myFormat),
 });
 
 const app = express();

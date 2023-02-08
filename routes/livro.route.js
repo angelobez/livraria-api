@@ -8,5 +8,7 @@ router.put("/", livroController.updateLivro);
 router.delete("/:id", livroController.deleteLivro);
 router.get("/", livroController.getLivros);
 router.get("/:id", livroController.getLivro);
+router.post("/info", livroController.createLivroInfo);
+router.put("/info", livroController.updateLivroInfo);
 
 export default router;

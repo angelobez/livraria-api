@@ -1,0 +1,205 @@
+2022-12-16T21:59:20.780Z [livraria-api] info POST /cliente - {"nome":"Angelo","email":"teste@gmail.com","senha":"senha","telefone":"912341234","endereco":"Rua x casa y"}
+2022-12-17T00:31:00.781Z [livraria-api] error PUT undefined - Cliente id, nome, e-mail, senha, telefone e endereço são obrigatórios
+2022-12-17T00:31:31.762Z [livraria-api] info PUT /cliente - {"cliente_id":"1","nome":"Angelo Bezerra","email":"teste@gmail.com","senha":"senha","telefone":"912341234","endereco":"Rua x casa y"}
+2022-12-17T00:32:09.383Z [livraria-api] info PUT /cliente - {"cliente_id":1,"nome":"Angelo Bezerra","email":"teste@gmail.com","senha":"senha","telefone":"912341234","endereco":"Rua x casa y"}
+2022-12-17T00:40:09.019Z [livraria-api] error GET undefined - cliente is not defined
+2022-12-17T00:41:13.478Z [livraria-api] error GET undefined - cliente is not defined
+2022-12-17T00:41:15.476Z [livraria-api] error GET undefined - cliente is not defined
+2022-12-17T00:43:39.010Z [livraria-api] error GET undefined - cliente is not defined
+2022-12-17T00:45:22.056Z [livraria-api] error GET undefined - cliente is not defined
+2022-12-17T00:46:07.494Z [livraria-api] error GET undefined - The argument passed to findAll must be an options object, use findByPk if you wish to pass a single primary key value
+2022-12-17T00:46:29.906Z [livraria-api] error GET undefined - cliente is not defined
+2022-12-17T00:46:43.063Z [livraria-api] error GET undefined - clientes is not defined
+2022-12-17T00:46:50.216Z [livraria-api] error GET undefined - clientesas is not defined
+2022-12-17T00:48:23.783Z [livraria-api] error GET undefined - clientess is not defined
+2022-12-17T00:48:30.693Z [livraria-api] error GET undefined - clientess is not defined
+2022-12-17T00:48:50.217Z [livraria-api] error GET undefined - cliente is not defined
+2022-12-17T00:51:18.953Z [livraria-api] error GET undefined - clienteId is not defined
+2022-12-17T00:51:49.009Z [livraria-api] info GET /cliente 
+2022-12-17T00:55:54.549Z [livraria-api] info GET /cliente - clientId: "2"
+2022-12-17T00:56:05.680Z [livraria-api] info GET /cliente - clientId: "1"
+2022-12-17T00:59:32.967Z [livraria-api] error DELETE undefined - Invalid status code: 1
+2022-12-17T01:01:33.321Z [livraria-api] info GET /cliente - clientId: "3"
+2022-12-17T01:02:47.346Z [livraria-api] error DELETE undefined - idTemp is not defined
+2022-12-17T01:03:16.048Z [livraria-api] error DELETE undefined - Invalid status code: 1
+2022-12-17T01:03:25.847Z [livraria-api] info GET /cliente 
+2022-12-17T01:03:36.342Z [livraria-api] info POST /cliente - {"nome":"Angeloasddds","email":"teste@gmail.com","senha":"senha","telefone":"912341234","endereco":"Rua x casa y"}
+2022-12-17T01:04:57.472Z [livraria-api] error DELETE undefined - Invalid status code: 1
+2022-12-17T01:06:11.264Z [livraria-api] info POST /cliente - {"nome":"Angeloasddds","email":"teste@gmail.com","senha":"senha","telefone":"912341234","endereco":"Rua x casa y"}
+2022-12-17T01:06:16.343Z [livraria-api] error DELETE undefined - Invalid status code: 1
+2022-12-17T01:06:29.420Z [livraria-api] info GET /cliente 
+2022-12-17T01:08:27.502Z [livraria-api] info POST /cliente - {"nome":"Angeloasddds","email":"teste@gmail.com","senha":"senha","telefone":"912341234","endereco":"Rua x casa y"}
+2022-12-17T01:08:32.810Z [livraria-api] info GET /cliente 
+2022-12-17T01:08:38.793Z [livraria-api] info DELETE /cliente
+2022-12-17T01:09:02.548Z [livraria-api] info GET /cliente 
+2022-12-17T01:09:41.153Z [livraria-api] info POST /cliente - {"nome":"Angdds","email":"teste@gmail.com","senha":"senha","telefone":"912341234","endereco":"Rua x casa y"}
+2022-12-17T01:09:46.055Z [livraria-api] info DELETE /cliente
+2022-12-17T01:13:00.176Z [livraria-api] info GET /cliente 
+2022-12-17T02:02:07.602Z [livraria-api] info POST /autor - {"nome":"George R R Martin","email":"teste@gmail.com","telefone":"912341234"}
+2022-12-17T02:03:14.730Z [livraria-api] info GET /autor 
+2022-12-17T02:03:43.647Z [livraria-api] info POST /autor - {"nome":"Edgar Allan Poe","email":"teste@gmail.com","telefone":"912341234"}
+2022-12-17T02:03:53.641Z [livraria-api] info POST /autor - {"nome":"Tolkien","email":"teste@gmail.com","telefone":"912341234"}
+2022-12-17T02:03:59.333Z [livraria-api] info GET /autor 
+2022-12-17T02:04:45.168Z [livraria-api] error PUT undefined - Cliente id, nome, e-mail, senha, telefone e endereço são obrigatórios
+2022-12-17T02:05:07.621Z [livraria-api] info PUT /autor - {"autor_id":3,"nome":"J Tolkien","email":"teste@gmail.com","telefone":"912341234"}
+2022-12-17T02:05:23.544Z [livraria-api] info GET /autor 
+2022-12-17T02:07:14.642Z [livraria-api] info DELETE /autor
+2022-12-17T02:07:28.582Z [livraria-api] info GET /autor - clientId: "3"
+2022-12-17T02:07:35.170Z [livraria-api] info GET /autor - clientId: "1"
+2022-12-17T02:44:36.751Z [livraria-api] error POST undefined - notNull Violation: livros.autorId cannot be null
+2022-12-17T02:45:41.501Z [livraria-api] error POST undefined - notNull Violation: livros.autorId cannot be null
+2022-12-17T02:46:12.208Z [livraria-api] error POST undefined - Nome, valor, estoque e autor ID são obrigatórios
+2022-12-17T02:46:43.215Z [livraria-api] error POST undefined - notNull Violation: livros.autorId cannot be null
+2022-12-17T02:47:01.798Z [livraria-api] error POST undefined - Nome, valor, estoque e autor ID são obrigatórios
+2022-12-17T02:48:18.147Z [livraria-api] info POST /livro - {"nome":"Game of thrones","valor":27,"estoque":6,"autorId":1}
+2022-12-17T02:49:16.002Z [livraria-api] info POST /livro - {"nome":"Dance with dragons","valor":27,"estoque":6,"autorId":1}
+2022-12-17T02:49:35.982Z [livraria-api] info GET /livro 
+2022-12-17T02:49:44.725Z [livraria-api] info DELETE /livro
+2022-12-17T02:49:47.256Z [livraria-api] info GET /livro 
+2022-12-17T02:49:52.638Z [livraria-api] info GET /livro - clientId: "1"
+2022-12-17T02:51:08.674Z [livraria-api] error PUT undefined - Cannot read properties of undefined (reading 'id')
+2022-12-17T02:52:07.366Z [livraria-api] error PUT undefined - Livro ID, valor, estoque e autor ID são obrigatórios
+2022-12-17T02:52:38.165Z [livraria-api] error PUT undefined - Validation error
+2022-12-17T02:53:04.218Z [livraria-api] error PUT undefined - Cannot read properties of undefined (reading 'id')
+2022-12-17T02:55:44.133Z [livraria-api] error PUT undefined - Cannot read properties of undefined (reading 'id')
+2022-12-17T02:55:52.121Z [livraria-api] info POST /livro - {"nome":"Dance with dragons","valor":27,"estoque":6,"autorId":1}
+2022-12-17T02:55:54.773Z [livraria-api] info POST /livro - {"nome":"Dance with dragons","valor":27,"estoque":6,"autorId":1}
+2022-12-17T02:55:55.939Z [livraria-api] info POST /livro - {"nome":"Dance with dragons","valor":27,"estoque":6,"autorId":1}
+2022-12-17T02:56:10.699Z [livraria-api] error PUT undefined - Cannot read properties of undefined (reading 'id')
+2022-12-17T02:58:15.815Z [livraria-api] error PUT undefined - Livro ID, valor, estoque e autor ID são obrigatórios
+2022-12-17T02:58:28.672Z [livraria-api] error PUT undefined - null value in column "autor_id" violates not-null constraint
+2022-12-17T03:01:22.776Z [livraria-api] error PUT undefined - null value in column "autor_id" violates not-null constraint
+2022-12-17T03:01:45.474Z [livraria-api] error PUT undefined - null value in column "autor_id" violates not-null constraint
+2022-12-17T03:02:00.570Z [livraria-api] info GET /autor 
+2022-12-17T03:02:12.497Z [livraria-api] info GET /livro 
+2022-12-17T03:03:02.052Z [livraria-api] error PUT undefined - null value in column "autor_id" violates not-null constraint
+2022-12-17T03:03:05.623Z [livraria-api] error PUT undefined - null value in column "autor_id" violates not-null constraint
+2022-12-17T03:04:18.494Z [livraria-api] info PUT /cliente - {"cliente_id":1,"nome":"Angelo Bezerra","email":"teste@gmail.com","senha":"senha","telefone":"912341234","endereco":"Rua x casa y"}
+2022-12-17T13:49:26.114Z [livraria-api] info GET /livro 
+2022-12-17T13:52:12.884Z [livraria-api] info GET /livro - clientId: "1"
+2022-12-17T13:52:22.886Z [livraria-api] info DELETE /livro
+2022-12-17T13:52:32.006Z [livraria-api] info DELETE /livro
+2022-12-17T13:52:37.347Z [livraria-api] info GET /livro 
+2022-12-17T13:52:45.638Z [livraria-api] error PUT undefined - null value in column "autor_id" violates not-null constraint
+2022-12-17T13:53:41.058Z [livraria-api] info PUT /livro - {"livro_id":5,"nome":"A guerra dos tronos","valor":29,"estoque":4,"autor_id":1,"autorId":1}
+2022-12-17T13:54:07.588Z [livraria-api] error PUT undefined - Livro ID, valor, estoque e autor ID são obrigatórios
+2022-12-17T13:54:28.549Z [livraria-api] info PUT /livro - {"livro_id":5,"nome":"A guerra dos tronos","valor":29,"estoque":4,"autorId":1}
+2022-12-17T13:54:40.324Z [livraria-api] info GET /livro 
+2022-12-17T14:09:04.180Z [livraria-api] info GET /cliente 
+2022-12-17T14:09:33.188Z [livraria-api] error POST undefined - Unexpected token / in JSON at position 30
+2022-12-17T14:11:19.203Z [livraria-api] error POST undefined - Unexpected number in JSON at position 30
+2022-12-17T14:12:33.913Z [livraria-api] error POST undefined - Unexpected number in JSON at position 29
+2022-12-17T14:13:41.578Z [livraria-api] info POST /venda - {"valor":27,"data":"07-07-2022","livroId":1,"clienteId":1}
+2022-12-17T14:14:01.486Z [livraria-api] info POST /venda - {"valor":29,"data":"07-10-2022","livroId":1,"clienteId":1}
+2022-12-17T14:14:25.231Z [livraria-api] info GET /venda 
+2022-12-17T14:14:41.914Z [livraria-api] info POST /venda - {"valor":29,"data":"07-30-2022","livroId":1,"clienteId":1}
+2022-12-17T14:14:47.181Z [livraria-api] error POST undefined - invalid input syntax for type date: "Invalid date"
+2022-12-17T14:14:56.133Z [livraria-api] info POST /venda - {"valor":29,"data":"08-30-2022","livroId":1,"clienteId":1}
+2022-12-17T14:15:52.263Z [livraria-api] info GET /venda 
+2022-12-17T14:16:01.637Z [livraria-api] info GET /venda - clientId: "1"
+2022-12-17T14:20:04.181Z [livraria-api] error PUT undefined - invalid input syntax for type date: "Invalid date"
+2022-12-17T14:20:26.133Z [livraria-api] error PUT undefined - Validation error
+2022-12-17T14:21:06.012Z [livraria-api] error PUT undefined - Venda ID, valor, estoque e autor ID são obrigatórios
+2022-12-17T14:22:05.222Z [livraria-api] error PUT undefined - null value in column "cliente_id" violates not-null constraint
+2022-12-17T14:22:22.960Z [livraria-api] error PUT undefined - Venda ID, valor, estoque e autor ID são obrigatórios
+2022-12-17T14:22:30.559Z [livraria-api] error PUT undefined - null value in column "livro_id" violates not-null constraint
+2022-12-17T14:22:44.739Z [livraria-api] info PUT /venda - {"venda_id":2,"livroId":1,"valor":30,"data":"12-08-2022","clienteId":1}
+2022-12-17T14:23:15.575Z [livraria-api] error PUT undefined - Venda ID, valor, estoque e autor ID são obrigatórios
+2022-12-17T14:23:22.921Z [livraria-api] error PUT undefined - Validation error
+2022-12-17T14:23:40.906Z [livraria-api] error PUT undefined - Validation error
+2022-12-17T14:23:50.885Z [livraria-api] error PUT undefined - Validation error
+2022-12-17T14:24:05.364Z [livraria-api] info PUT /venda - {"venda_id":2,"livroId":1,"valor":30,"data":"12-08-2022","clienteId":1}
+2022-12-17T14:24:26.987Z [livraria-api] info GET /venda 
+2022-12-17T14:24:43.819Z [livraria-api] info DELETE /venda
+2022-12-17T14:24:48.115Z [livraria-api] info GET /venda 
+2022-12-17T14:42:11.428Z [livraria-api] info GET /cliente 
+2022-12-17T14:42:31.533Z [livraria-api] error PUT undefined - Validation error
+2022-12-17T14:42:46.423Z [livraria-api] error PUT undefined - Cliente id, nome, e-mail, senha, telefone e endereço são obrigatórios
+2022-12-17T14:43:01.549Z [livraria-api] error PUT undefined - Validation error
+2022-12-17T14:43:38.887Z [livraria-api] info GET /cliente - clientId: "1"
+2022-12-17T14:43:52.678Z [livraria-api] error PUT undefined - Validation error
+2022-12-17T14:44:33.531Z [livraria-api] error PUT undefined - Validation error
+2022-12-17T14:44:46.858Z [livraria-api] error PUT undefined - Validation error
+2022-12-17T20:35:59.705Z [livraria-api] error PUT undefined - Validation error
+2022-12-17T20:40:13.885Z [livraria-api] info GET /cliente 
+2022-12-17T20:40:23.181Z [livraria-api] info PUT /cliente - {"clienteId":1,"nome":"Angelo Bezerra","email":"teste@gmail.com","senha":"senha","telefone":"912341234","endereco":"Rua x casa y"}
+2022-12-17T20:40:27.925Z [livraria-api] info GET /cliente 
+2022-12-17T20:41:26.769Z [livraria-api] info GET /autor 
+2022-12-17T20:41:34.315Z [livraria-api] error PUT undefined - WHERE parameter "autor_id" has invalid "undefined" value
+2022-12-17T20:41:42.356Z [livraria-api] error PUT undefined - Autor id, nome, e-mail e telefone são obrigatórios
+2022-12-17T20:41:59.089Z [livraria-api] info PUT /autor - {"autorId":3,"nome":"J Tolkien","email":"teste@gmail.com","telefone":"912341234"}
+2022-12-17T20:42:04.799Z [livraria-api] info GET /autor 
+2022-12-17T20:42:41.321Z [livraria-api] info GET /livro 
+2022-12-17T20:43:24.699Z [livraria-api] error PUT undefined - Livro ID, valor, estoque e autor ID são obrigatórios
+2022-12-17T20:43:41.644Z [livraria-api] info PUT /livro - {"livroId":5,"nome":"A tormenta das espadas","valor":"35","estoque":4,"autorId":1}
+2022-12-17T20:43:47.128Z [livraria-api] info GET /livro 
+2022-12-17T20:44:39.680Z [livraria-api] info GET /venda 
+2022-12-17T20:44:55.871Z [livraria-api] error PUT undefined - Venda ID, valor, estoque e autor ID são obrigatórios
+2022-12-17T20:45:07.096Z [livraria-api] info PUT /venda - {"vendaId":2,"valor":"39","data":"2022-12-08","clienteId":1,"livroId":1}
+2022-12-17T20:45:12.416Z [livraria-api] info GET /venda 
+2022-12-17T20:50:58.030Z [livraria-api] info GET /cliente 
+2022-12-17T20:51:18.344Z [livraria-api] error DELETE undefined - venda is not defined
+2022-12-17T20:51:36.165Z [livraria-api] error DELETE undefined - update or delete on table "clientes" violates foreign key constraint "fk_clientes" on table "vendas"
+2022-12-17T20:56:49.173Z [livraria-api] error DELETE undefined - Não é possível excluir o produto pois ele tem vendas.
+2022-12-17T21:38:40.451Z [livraria-api] info GET /cliente 
+2022-12-17T21:41:37.497Z [livraria-api] info GET /cliente - clientId: "1"
+2022-12-17T21:42:43.604Z [livraria-api] info GET /autor 
+2022-12-17T21:44:31.473Z [livraria-api] info PUT /autor - {"autorId":3,"nome":"J R Tolkien","email":"teste@gmail.com","telefone":"912341234"}
+2022-12-17T21:44:35.934Z [livraria-api] info GET /autor 
+2022-12-17T21:50:57.369Z [livraria-api] info GET /livro 
+2022-12-17T21:51:06.351Z [livraria-api] error DELETE undefined - Autor is not defined
+2022-12-17T21:51:42.719Z [livraria-api] error DELETE undefined - Não é possível excluir o autor pois ele tem livros cadastrados.
+2022-12-17T21:53:17.239Z [livraria-api] info GET /livro 
+2022-12-17T21:53:50.885Z [livraria-api] info PUT /livro - {"livroId":13,"nome":"Wild cards","valor":"35","estoque":4,"autorId":1}
+2022-12-17T21:53:55.375Z [livraria-api] info GET /livro 
+2022-12-17T21:57:51.827Z [livraria-api] info GET /venda 
+2022-12-17T21:58:02.236Z [livraria-api] error DELETE undefined - vendaRepository is not defined
+2022-12-17T21:58:28.294Z [livraria-api] error DELETE undefined - Não é possível excluir o produto pois ele tem vendas.
+2022-12-17T22:08:28.633Z [livraria-api] info GET /venda 
+2022-12-17T22:09:52.868Z [livraria-api] info GET /livro 
+2022-12-17T22:10:25.002Z [livraria-api] info GET /livro - clientId: "1"
+2022-12-17T22:13:42.139Z [livraria-api] error DELETE undefined - Não é possível excluir o produto pois ele tem vendas.
+2022-12-17T22:27:15.551Z [livraria-api] error GET undefined - autorId is not defined
+2022-12-17T22:28:11.259Z [livraria-api] info GET /livro 
+2022-12-17T23:10:01.573Z [livraria-api] info GET /venda - clientId: "1"
+2022-12-17T23:10:22.465Z [livraria-api] info GET /venda 
+2022-12-17T23:34:15.224Z [livraria-api] info GET /venda 
+2022-12-17T23:37:20.006Z [livraria-api] error GET undefined - livroId is not defined
+2022-12-17T23:37:38.329Z [livraria-api] info GET /venda 
+2022-12-17T23:38:00.682Z [livraria-api] info GET /venda 
+2022-12-17T23:38:28.407Z [livraria-api] info GET /venda 
+2022-12-17T23:38:35.286Z [livraria-api] info GET /venda 
+2022-12-17T23:39:00.751Z [livraria-api] info POST /venda - {"valor":29,"data":"08-30-2022","livroId":4,"clienteId":1}
+2022-12-17T23:39:20.075Z [livraria-api] info GET /venda 
+2022-12-17T23:43:21.852Z [livraria-api] error POST undefined - insert or update on table "vendas" violates foreign key constraint "fk_clientes"
+2022-12-17T23:43:35.248Z [livraria-api] error POST undefined - insert or update on table "vendas" violates foreign key constraint "fk_clientes"
+2022-12-17T23:44:46.580Z [livraria-api] error POST undefined - insert or update on table "vendas" violates foreign key constraint "fk_clientes"
+2022-12-17T23:46:08.134Z [livraria-api] info POST /venda - {"valor":29,"data":"08-30-2022","livroId":4,"clienteId":8}
+2022-12-17T23:46:12.463Z [livraria-api] info POST /venda - {"valor":29,"data":"08-30-2022","livroId":4,"clienteId":8}
+2022-12-17T23:46:13.662Z [livraria-api] info POST /venda - {"valor":29,"data":"08-30-2022","livroId":4,"clienteId":8}
+2022-12-17T23:46:18.475Z [livraria-api] info GET /venda 
+2022-12-17T23:48:47.919Z [livraria-api] info GET /venda 
+2022-12-17T23:48:55.686Z [livraria-api] info GET /venda 
+2022-12-17T23:49:02.408Z [livraria-api] info GET /venda 
+2022-12-17T23:49:10.782Z [livraria-api] info GET /venda 
+2022-12-17T23:52:29.416Z [livraria-api] error GET undefined - autorId is not defined
+2022-12-17T23:53:03.702Z [livraria-api] error GET undefined - vendaRepository.getVendaByAutorId is not a function
+2022-12-17T23:53:29.455Z [livraria-api] error GET undefined - autores is not associated to vendas!
+2022-12-18T12:48:07.006Z [livraria-api] info GET /livro 
+2022-12-18T12:48:22.224Z [livraria-api] error GET undefined - invalid input syntax for integer: "info"
+2022-12-18T12:49:00.205Z [livraria-api] error POST undefined - No write concern mode named 'majoritymongodb srv://root:igti@cluster0.pi7nj.mongodb.net/store?retryWrites=true' found in replica set configuration
+2022-12-18T12:52:01.965Z [livraria-api] error POST undefined - No write concern mode named 'majoritymongodb srv://root:igti@cluster0.pi7nj.mongodb.net/store?retryWrites=true' found in replica set configuration
+2022-12-18T12:52:07.107Z [livraria-api] error POST undefined - No write concern mode named 'majoritymongodb srv://root:igti@cluster0.pi7nj.mongodb.net/store?retryWrites=true' found in replica set configuration
+2022-12-18T12:53:19.698Z [livraria-api] error POST undefined - No write concern mode named 'majoritymongodb srv://root:igti@cluster0.pi7nj.mongodb.net/store?retryWrites=true' found in replica set configuration
+2022-12-18T12:53:40.048Z [livraria-api] error POST undefined - Expected retryWrites to be stringified boolean value, got: truemongodb srv://root:igti@cluster0.pi7nj.mongodb.net/store?retryWrites=true
+2022-12-18T12:57:13.601Z [livraria-api] info POST /livro/info - {"livroId":4,"descricao":"Descricao do livro","paginas":500,"editora":"Nome da Editora","avaliacoes":[]}
+2022-12-18T12:57:50.476Z [livraria-api] info POST /livro/info - {"livroId":4,"descricao":"Descricao do livro","paginas":500,"editora":"Nome da Editora","avaliacoes":[]}
+2022-12-18T12:58:53.163Z [livraria-api] info POST /livro/info - {"livroId":4,"descricao":"Descricao do livro","paginas":500,"editora":"Nome da Editora","avaliacoes":[]}
+2022-12-18T13:00:31.896Z [livraria-api] info POST /livro/info - {"livroId":4,"descricao":"Descricao do livro","paginas":500,"editora":"Nome da Editora","avaliacoes":[]}
+2022-12-20T03:04:01.517Z [livraria-api] info POST /livro/info - {"livroId":4,"descricao":"Descricao do livro","paginas":500,"editora":"Nome da Editora","avaliacoes":[]}
+2022-12-20T03:05:03.137Z [livraria-api] info GET /livro 
+2022-12-20T03:09:11.548Z [livraria-api] info POST /livro/info - {"livroId":4,"descricao":"Descricao do livro","paginas":500,"editora":"Nome da Editora","avaliacoes":[]}
+2022-12-20T03:11:24.106Z [livraria-api] error POST undefined - Livro ID é obrigatório.
+2022-12-20T03:11:28.876Z [livraria-api] info POST /livro/info - {"livroId":4,"descricao":"Descricao do livro","paginas":500,"editora":"Nome da Editora","avaliacoes":[]}
+2022-12-20T03:31:25.326Z [livraria-api] info PUT /livro/info - {"livroId":4,"descricao":"Descricao do livro","paginas":999,"editora":"Nome da Editora","avaliacoes":[]}
+2023-02-07T21:43:33.950Z [livraria-api] info GET /cliente 
